@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.user
+*.userosscache
+*.sln.switches
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# ReSharper
+.idea/
+*.sln.iml
+_ReSharper*/
+*.resharper
+
+# NUnit
+nunit-results.xml
+
+# Test Results
+TestResults/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Local user-specific files
+launchSettings.json
+appsettings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+packages/
+.paket/paket.exe
+
+# Rider
+.idea/
+*.sln.iml
+
+# Output
+dist/
+build/
+idea/

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("integration-pipeline-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+120a7b34f07ed0ba06dc8fad7850bb14f50b614b")]
 [assembly: System.Reflection.AssemblyProductAttribute("integration-pipeline-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("integration-pipeline-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
