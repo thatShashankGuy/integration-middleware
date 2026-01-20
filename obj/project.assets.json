@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shashankshekhar/homelab/integration-pipeline-dotnet/integration-pipeline-dotnet.csproj",
+      "projectUniqueName": "/Users/shashankshekhar/homelab/integration-middleware/integration-pipeline-dotnet.csproj",
       "projectName": "integration-pipeline-dotnet",
-      "projectPath": "/Users/shashankshekhar/homelab/integration-pipeline-dotnet/integration-pipeline-dotnet.csproj",
+      "projectPath": "/Users/shashankshekhar/homelab/integration-middleware/integration-pipeline-dotnet.csproj",
       "packagesPath": "/Users/shashankshekhar/.nuget/packages/",
-      "outputPath": "/Users/shashankshekhar/homelab/integration-pipeline-dotnet/obj/",
+      "outputPath": "/Users/shashankshekhar/homelab/integration-middleware/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shashankshekhar/.nuget/NuGet/NuGet.Config"
